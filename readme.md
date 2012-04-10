@@ -4,6 +4,8 @@ Tac
 **Tac** is a [tac](http://en.wikipedia.org/wiki/Tac_\(Unix\))
 and a [tail](http://en.wikipedia.org/wiki/Tail_\(Unix\)) implementation of php for files.
 
+[![Build Status](https://secure.travis-ci.org/krichprollsch/Tac.png)](http://travis-ci.org/krichprollsch/Tac)
+
 Usage
 -----
 
