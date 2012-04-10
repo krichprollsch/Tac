@@ -2,7 +2,7 @@ Tac
 ===
 
 **Tac** is a [tac](http://en.wikipedia.org/wiki/Tac_\(Unix\))
-and a [tail](http://en.wikipedia.org/wiki/Tail_\(Unix\)) implementation of php for files.
+and a [tail](http://en.wikipedia.org/wiki/Tail_\(Unix\)) php implementation for text files.
 
 [![Build Status](https://secure.travis-ci.org/krichprollsch/Tac.png)](http://travis-ci.org/krichprollsch/Tac)
 
@@ -16,7 +16,7 @@ If `/path/to/file contains` contains this :
     def
     ghi
 
-`tac()` wil returns :
+`tac()` will return
 
     $tac = new \Tac\Tac( '/path/to/file' );
     var_dump($tac->tac(2));
@@ -29,7 +29,7 @@ If `/path/to/file contains` contains this :
     }
     */
 
-`tail()` will returns :
+`tail()` will return
 
     $tac = new \Tac\Tac( '/path/to/file' );
     var_dump($tac->tail(2));
