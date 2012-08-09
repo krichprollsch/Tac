@@ -1,0 +1,20 @@
+{
+    "name": "ptachoire/tac",
+    "type": "library",
+    "description": "Tac and tail library.",
+    "keywords": ["tac", "tail"],
+    "homepage": "https://github.com/krichprollsch/tac",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pierre Tachoire",
+            "email": "pierre.tachoire@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": { "Tac": "src/" }
+    }
+}
