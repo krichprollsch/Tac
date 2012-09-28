@@ -5,7 +5,7 @@ namespace Tac;
 /**
  * Tac is a tac and tail php implementation for php
  *
- * @author Pierre Tachoire
+ * @author Pierre Tachoire <pierre.tachoire@gmail.com>
  */
 class Tac
 {
